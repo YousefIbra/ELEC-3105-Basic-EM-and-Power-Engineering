@@ -1,6 +1,6 @@
 # ELEC-3105
 
-Course Description: 
+**Course Description:** 
 
 This course explains the fundamentals of electromagnetics (EM) and its
 application to motors, generators and electric power distribution. Topics covered include: electrostatics
